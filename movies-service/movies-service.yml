@@ -5,3 +5,5 @@ eureka:
     service-url: http://locahost:8761/eureka/
   instance:
     hostname: localhost
+test:
+  value: sanjay
